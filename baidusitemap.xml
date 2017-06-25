@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://mf13890040712.oschina.io/ofbiz-guide/2017-06-25/hello-world/</loc>
+    <lastmod>2017-06-25T13:51:30.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-06-25T13:51:30.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://mf13890040712.oschina.io/ofbiz-guide/2017-06-25/about/</loc>
+    <lastmod>2017-06-25T13:29:19.000Z</lastmod>
+    <data>
+        <display>
+        <title>关于我</title>
+        <pubTime>2017-06-25T13:29:19.000Z</pubTime>
+        
+        <tag>关于我,香飘飘</tag>
+         
+         
+           
+             
+              <breadCrumb title="about" url="http://mf13890040712.oschina.io/ofbiz-guide/categories/about/"/>
+          
+        </display>
+    </data>
+    </url>
+
+</urlset>
